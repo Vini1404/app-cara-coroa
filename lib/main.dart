@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MaterialApp(
-    home: CaraouCoroa(),
+    home: CaraOuCoroa(),
     debugShowCheckedModeBanner: false,
   ));
 }
